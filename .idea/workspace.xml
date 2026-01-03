@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef7eb48-747d-438c-ad26-45322d73a394" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/BreakExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ConditionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ContinueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DoWhileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ForLoopExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/IfExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ImprovedForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ReferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/SwitchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/WhileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/primitiveExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/BreakContinueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/LoopExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +71,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.BreakContinueExample.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.BreakExample.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ConditionExample.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ContinueExample.main()].executor": "Run",
@@ -91,6 +80,7 @@
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.HelloWorld.main()].executor": "Debug",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.IfExample.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ImprovedForLoop.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.LoopExample.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ReferenceExample.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.SwitchExample.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.WhileExample.main()].executor": "Run",
@@ -109,9 +99,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.ConditionExample">
-    <configuration name="BreakExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.BreakExample" />
+  <component name="RunManager" selected="애플리케이션.EnhancedForLoop">
+    <configuration name="ArrayAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.ArrayAccess" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.ConditionExample" />
+    <configuration name="BreakContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.BreakContinueExample" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.ContinueExample" />
+    <configuration name="EnhancedForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.EnhancedForLoop" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.DoWhileExample" />
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.ForLoop" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
@@ -162,8 +152,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.WhileExample" />
+    <configuration name="LoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.LoopExample" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
@@ -177,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.ConditionExample" />
-        <item itemvalue="애플리케이션.ContinueExample" />
-        <item itemvalue="애플리케이션.BreakExample" />
-        <item itemvalue="애플리케이션.DoWhileExample" />
-        <item itemvalue="애플리케이션.WhileExample" />
+        <item itemvalue="애플리케이션.EnhancedForLoop" />
+        <item itemvalue="애플리케이션.ForLoop" />
+        <item itemvalue="애플리케이션.ArrayAccess" />
+        <item itemvalue="애플리케이션.BreakContinueExample" />
+        <item itemvalue="애플리케이션.LoopExample" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +191,7 @@
       <option name="presentableId" value="Default" />
       <updated>1767437813888</updated>
       <workItem from="1767437815506" duration="723000" />
-      <workItem from="1767438549475" duration="2031000" />
+      <workItem from="1767438549475" duration="2655000" />
     </task>
     <servers />
   </component>
