@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ef7eb48-747d-438c-ad26-45322d73a394" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/BreakExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ConditionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ContinueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DoWhileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ForLoopExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/IfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ImprovedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/SwitchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/WhileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/primitiveExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SpringBackendLecture9" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;clover6559&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/clover6559/SpringBackendLecture.git&quot;,
+    &quot;accountId&quot;: &quot;3c6e43ee-97b3-4c59-86ce-8eead515a40b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="37kCiXKBvUeZLTSoaLBpEt5vNGD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.BreakExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ConditionExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ContinueExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.DoWhileExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ForLoopExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.HelloWorld.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.IfExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ImprovedForLoop.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ReferenceExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.SwitchExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.WhileExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.primitiveExample.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.ConditionExample">
+    <configuration name="BreakExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.BreakExample" />
+      <module name="SpringBackendLecture9.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.head02_JAVA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.ConditionExample" />
+      <module name="SpringBackendLecture9.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.head02_JAVA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.ContinueExample" />
+      <module name="SpringBackendLecture9.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.head02_JAVA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoWhileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.DoWhileExample" />
+      <module name="SpringBackendLecture9.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.head02_JAVA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.WhileExample" />
+      <module name="SpringBackendLecture9.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.head02_JAVA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.ConditionExample" />
+        <item itemvalue="애플리케이션.ContinueExample" />
+        <item itemvalue="애플리케이션.BreakExample" />
+        <item itemvalue="애플리케이션.DoWhileExample" />
+        <item itemvalue="애플리케이션.WhileExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="2ef7eb48-747d-438c-ad26-45322d73a394" name="변경" comment="" />
+      <created>1767437813888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767437813888</updated>
+      <workItem from="1767437815506" duration="723000" />
+      <workItem from="1767438549475" duration="2031000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
