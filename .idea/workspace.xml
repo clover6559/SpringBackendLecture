@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef7eb48-747d-438c-ad26-45322d73a394" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/BreakContinueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/LoopExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ArrayLengthExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ArrayToSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ArrayToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DeepCopyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DeepCopyArrayCopyOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DeepCopyArraySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ShallowCopyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/TwoDArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,12 +58,12 @@
     &quot;assignee&quot;: &quot;clover6559&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/clover6559/SpringBackendLecture.git&quot;,
-    &quot;accountId&quot;: &quot;3c6e43ee-97b3-4c59-86ce-8eead515a40b&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:clover6559/SpringBackendLecture.git",
+    "accountId": "3c6e43ee-97b3-4c59-86ce-8eead515a40b"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -71,18 +77,29 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayAccess.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayLengthExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayToSort.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayToString.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.BreakContinueExample.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.BreakExample.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ConditionExample.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ContinueExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.DeepCopyArray.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.DeepCopyArrayCopyOf.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.DeepCopyArraySystem.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.DoWhileExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.EnhancedForLoop.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ForLoop.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ForLoopExample.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.HelloWorld.main()].executor": "Debug",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.IfExample.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ImprovedForLoop.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.LoopExample.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ReferenceExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ShallowCopyArray.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.SwitchExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.TwoDArray.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.WhileExample.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.primitiveExample.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -99,9 +116,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.EnhancedForLoop">
-    <configuration name="ArrayAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.ArrayAccess" />
+  <component name="RunManager" selected="애플리케이션.ArrayToSort">
+    <configuration name="ArrayLengthExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.ArrayLengthExample" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreakContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.BreakContinueExample" />
+    <configuration name="ArrayToSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.ArrayToSort" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnhancedForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.EnhancedForLoop" />
+    <configuration name="ArrayToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.ArrayToString" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
@@ -139,8 +156,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.ForLoop" />
+    <configuration name="DeepCopyArrayCopyOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.DeepCopyArrayCopyOf" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
@@ -152,8 +169,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.LoopExample" />
+    <configuration name="DeepCopyArraySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.DeepCopyArraySystem" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
@@ -167,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.EnhancedForLoop" />
-        <item itemvalue="애플리케이션.ForLoop" />
-        <item itemvalue="애플리케이션.ArrayAccess" />
-        <item itemvalue="애플리케이션.BreakContinueExample" />
-        <item itemvalue="애플리케이션.LoopExample" />
+        <item itemvalue="애플리케이션.ArrayToSort" />
+        <item itemvalue="애플리케이션.ArrayToString" />
+        <item itemvalue="애플리케이션.ArrayLengthExample" />
+        <item itemvalue="애플리케이션.DeepCopyArraySystem" />
+        <item itemvalue="애플리케이션.DeepCopyArrayCopyOf" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +208,8 @@
       <option name="presentableId" value="Default" />
       <updated>1767437813888</updated>
       <workItem from="1767437815506" duration="723000" />
-      <workItem from="1767438549475" duration="2655000" />
+      <workItem from="1767438549475" duration="3093000" />
+      <workItem from="1767508638910" duration="1572000" />
     </task>
     <servers />
   </component>
