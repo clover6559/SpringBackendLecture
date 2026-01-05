@@ -5,14 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef7eb48-747d-438c-ad26-45322d73a394" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ArrayLengthExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ArrayToSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ArrayToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DeepCopyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DeepCopyArrayCopyOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DeepCopyArraySystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ShallowCopyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/TwoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/OOPGradeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/ProceduralGradeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/ProceduralOrderManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example3/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example3/testProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example4/ConstructorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example4/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example4/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example5/EcommerceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example5/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/AccountTransferPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/CreditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/Topic03ExampleMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,12 +67,12 @@
     &quot;assignee&quot;: &quot;clover6559&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:clover6559/SpringBackendLecture.git",
-    "accountId": "3c6e43ee-97b3-4c59-86ce-8eead515a40b"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:clover6559/SpringBackendLecture.git&quot;,
+    &quot;accountId&quot;: &quot;3c6e43ee-97b3-4c59-86ce-8eead515a40b&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -102,6 +111,8 @@
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.TwoDArray.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.WhileExample.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.primitiveExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head03_OOP.OOPGradeManager.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example3.testProgram.main()].executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -116,7 +127,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.ArrayToSort">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.head03_OOP" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.testProgram">
     <configuration name="ArrayLengthExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.ArrayLengthExample" />
       <module name="SpringBackendLecture9.main" />
@@ -156,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeepCopyArrayCopyOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.DeepCopyArrayCopyOf" />
+    <configuration name="OOPGradeManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head03_OOP.OOPGradeManager" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.head02_JAVA.*" />
+          <option name="PATTERN" value="org.example.head03_OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeepCopyArraySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head02_JAVA.DeepCopyArraySystem" />
+    <configuration name="testProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head03_OOP.example3.testProgram" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.head02_JAVA.*" />
+          <option name="PATTERN" value="org.example.head03_OOP.example3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.testProgram" />
+        <item itemvalue="애플리케이션.OOPGradeManager" />
         <item itemvalue="애플리케이션.ArrayToSort" />
         <item itemvalue="애플리케이션.ArrayToString" />
         <item itemvalue="애플리케이션.ArrayLengthExample" />
-        <item itemvalue="애플리케이션.DeepCopyArraySystem" />
-        <item itemvalue="애플리케이션.DeepCopyArrayCopyOf" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +225,8 @@
       <updated>1767437813888</updated>
       <workItem from="1767437815506" duration="723000" />
       <workItem from="1767438549475" duration="3093000" />
-      <workItem from="1767508638910" duration="1572000" />
+      <workItem from="1767508638910" duration="1693000" />
+      <workItem from="1767572388426" duration="13622000" />
     </task>
     <servers />
   </component>
