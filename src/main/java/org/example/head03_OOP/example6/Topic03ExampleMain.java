@@ -1,4 +1,4 @@
-package org.example.head03_OOP.example6;
+/*package org.example.head03_OOP.example6;
 
 public class Topic03ExampleMain {
     public static void main(String[] args) {
@@ -7,5 +7,10 @@ public class Topic03ExampleMain {
 
         Order o2 = new Order(new AccountTransferPayment());
         o2.process(30000);
-    }
-}
+
+       //
+*/
+
+
+
+

@@ -19,9 +19,7 @@ public class Order {
     public Order (String orderId) {
         this.orderId = orderId;
     }
-    public  Order (String name) {
-        this.name = name;
-    }
+
 
 
     public String getOrderId() {

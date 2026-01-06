@@ -1,4 +1,4 @@
-/*package org.example.head03_OOP.example6;
+package org.example.head03_OOP.example8;
 
 public class CreditCardPayment implements Payment {
     @Override
@@ -6,4 +6,3 @@ public class CreditCardPayment implements Payment {
         System.out.println("신용카드로 " + amount + "원 결제 완료.");
     }
 }
-*/
