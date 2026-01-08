@@ -1,0 +1,13 @@
+package org.example.head05.example4;
+
+import java.util.function.Function;
+
+public class StaticMethodRefDemo {
+    public static int doubleValue(int x) {
+        return x * 2;
+    }
+    public static void main(String[] args) {
+        Function<Integer, Integer> f1 =  StaticMethodRefDemo::doubleValue;
+        System.out.println(f1.apply(10));
+    }
+}

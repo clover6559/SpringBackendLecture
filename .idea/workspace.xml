@@ -5,26 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef7eb48-747d-438c-ad26-45322d73a394" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example1/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example1/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example10/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example10/PaymentMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example11/CompileErrorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example11/RuntimeErrorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example11/mermaid.mmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example12/ArrayVsArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example2/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example2/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example3/LocalClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example4/AnonymousClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example4/EventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example5/LambdaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example5/MyCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example6/AbstractTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example6/AnonymousClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example7/EnumBasicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example8/PlanetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example9/EnumSwitchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example1/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example2/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example2/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example3/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/CollectSquareEvenExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/CollectToListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/EntrySetBasicExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterExampleLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterMapExampleLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterNumbersExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FlatMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/ForEachVsForExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/InstanceMethodRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/LambdaPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/LambdaSyntaxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/LazyEvaluationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapEntryTransformationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapEntryTransformationExampleLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapNamesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapNamesExampleLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/PeekExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/StaticMethodRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/StreamBasicExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/ToSetExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,6 +151,31 @@
     "Gradle.SpringBackendLecture [:org.example.head04.example7.EnumBasicTest.main()].executor": "Debug",
     "Gradle.SpringBackendLecture [:org.example.head04.example8.PlanetTest.main()].executor": "Debug",
     "Gradle.SpringBackendLecture [:org.example.head04.example9.EnumSwitchTest.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example1.ArrayListExample.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example2.HashMapExample.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example2.HashSetExample.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.CollectSquareEvenExample.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.CollectToListExample.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.EntrySetBasicExample.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.FilterExampleLambda.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.FilterMapExample.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.FilterMapExampleLambda.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.FilterNumbersExample.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.FlatMapExample.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.ForEachVsForExample.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.InstanceMethodRefDemo.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.LambdaPractice.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.LambdaSyntaxDemo.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.LazyEvaluationExample.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.MapEntryTransformationExample.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.MapEntryTransformationExampleLambda.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.MapNamesExample.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.MapNamesExampleLambda.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.PeekExample.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.StaticMethodRefDemo.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.StreamBasicExample.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture [:org.example.head05.example4.ToSetExample.main()].executor": "Debug",
+    "Gradle.SpringBackendLecture 빌드.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -155,7 +187,9 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.MapEntryTransformationExampleLambda.executor": "Coverage",
+    "애플리케이션.StaticMethodRefDemo.executor": "Coverage"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -166,13 +200,13 @@
       <recent name="org.example.head03_OOP" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ArrayVsArrayList">
-    <configuration name="ArrayVsArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head04.example12.ArrayVsArrayList" />
+  <component name="RunManager" selected="애플리케이션.JoiningExample">
+    <configuration name="CollectSquareEvenExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head05.example4.CollectSquareEvenExample" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.head04.example12.*" />
+          <option name="PATTERN" value="org.example.head05.example4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompileErrorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head04.example11.CompileErrorExample" />
+    <configuration name="CollectToListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head05.example4.CollectToListExample" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.head04.example11.*" />
+          <option name="PATTERN" value="org.example.head05.example4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumSwitchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head04.example9.EnumSwitchTest" />
+    <configuration name="JoiningExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head05.example4.JoiningExample" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.head04.example9.*" />
+          <option name="PATTERN" value="org.example.head05.example4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head04.example10.PaymentMethodDemo" />
+    <configuration name="PeekExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head05.example4.PeekExample" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.head04.example10.*" />
+          <option name="PATTERN" value="org.example.head05.example4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +253,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RuntimeErrorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head04.example11.RuntimeErrorExample" />
+    <configuration name="ToSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head05.example4.ToSetExample" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.head04.example11.*" />
+          <option name="PATTERN" value="org.example.head05.example4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.ArrayVsArrayList" />
-        <item itemvalue="애플리케이션.RuntimeErrorExample" />
-        <item itemvalue="애플리케이션.CompileErrorExample" />
-        <item itemvalue="애플리케이션.PaymentMethodDemo" />
-        <item itemvalue="애플리케이션.EnumSwitchTest" />
+        <item itemvalue="애플리케이션.JoiningExample" />
+        <item itemvalue="애플리케이션.ToSetExample" />
+        <item itemvalue="애플리케이션.CollectSquareEvenExample" />
+        <item itemvalue="애플리케이션.CollectToListExample" />
+        <item itemvalue="애플리케이션.PeekExample" />
       </list>
     </recent_temporary>
   </component>
@@ -267,11 +301,17 @@
       <workItem from="1767709434514" duration="6000" />
       <workItem from="1767709459045" duration="580000" />
       <workItem from="1767710050719" duration="638000" />
-      <workItem from="1767746557020" duration="16930000" />
+      <workItem from="1767746557020" duration="17728000" />
+      <workItem from="1767831692705" duration="23237000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpringBackendLecture$MapEntryTransformationExampleLambda.ic" NAME="MapEntryTransformationExampleLambda 커버리지 결과" MODIFIED="1767856611130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.example.head05.example4.*</FILTER>
+    </SUITE>
   </component>
 </project>
