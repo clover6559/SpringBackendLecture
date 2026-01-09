@@ -5,33 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef7eb48-747d-438c-ad26-45322d73a394" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example1/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example2/HashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example2/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example3/StudentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/CollectSquareEvenExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/CollectToListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/EntrySetBasicExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterExampleLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterMapExampleLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterNumbersExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FlatMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/ForEachVsForExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/InstanceMethodRefDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/LambdaPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/LambdaSyntaxDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/LazyEvaluationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapEntryTransformationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapEntryTransformationExampleLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapNamesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapNamesExampleLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/PeekExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/StaticMethodRefDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/StreamBasicExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/ToSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/AveragingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/DepartmentReportExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/GroupingByExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/MinAndMaxByExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/MultiLevelGrouping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/PartitioningExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/ReducingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/SummarizingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/SummingIntExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,97 +83,107 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayAccess.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayLengthExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayToSort.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayToString.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.BreakContinueExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.BreakExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ConditionExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ContinueExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.DeepCopyArray.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.DeepCopyArrayCopyOf.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.DeepCopyArraySystem.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.DoWhileExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.EnhancedForLoop.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ForLoop.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ForLoopExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.HelloWorld.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.IfExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ImprovedForLoop.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.LoopExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ReferenceExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ShallowCopyArray.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.SwitchExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.TwoDArray.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.WhileExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.primitiveExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.OOPGradeManager.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example10.PaymentServiceTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example11.PaymentProcessorTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example12.LspTestImproved.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example13.DipTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example14.main.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example15.main.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example16.LocalClassDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example3.testProgram.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example6.Topic03ExampleMain.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example7.InheritanceTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example8.PolymorphismTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example10.PaymentMethodDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example11.CompileErrorExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example11.RuntimeErrorExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example12.ArrayVsArrayList.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example3.LocalClassDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example4.AnonymousClassExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example5.LambdaDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example6.AnonymousClassDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example7.EnumBasicTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example8.PlanetTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example9.EnumSwitchTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example1.ArrayListExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example2.HashMapExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example2.HashSetExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.CollectSquareEvenExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.CollectToListExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.EntrySetBasicExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.FilterExampleLambda.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.FilterMapExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.FilterMapExampleLambda.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.FilterNumbersExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.FlatMapExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.ForEachVsForExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.InstanceMethodRefDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.LambdaPractice.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.LambdaSyntaxDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.LazyEvaluationExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.MapEntryTransformationExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.MapEntryTransformationExampleLambda.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.MapNamesExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.MapNamesExampleLambda.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.PeekExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.StaticMethodRefDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.StreamBasicExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.ToSetExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture 빌드.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.MapEntryTransformationExampleLambda.executor": "Coverage",
-    "애플리케이션.StaticMethodRefDemo.executor": "Coverage"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayAccess.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayLengthExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayToSort.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayToString.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.BreakContinueExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.BreakExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ConditionExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ContinueExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.DeepCopyArray.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.DeepCopyArrayCopyOf.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.DeepCopyArraySystem.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.DoWhileExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.EnhancedForLoop.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ForLoop.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ForLoopExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.HelloWorld.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.IfExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ImprovedForLoop.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.LoopExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ReferenceExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ShallowCopyArray.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.SwitchExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.TwoDArray.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.WhileExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.primitiveExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.OOPGradeManager.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example10.PaymentServiceTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example11.PaymentProcessorTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example12.LspTestImproved.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example13.DipTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example14.main.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example15.main.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example16.LocalClassDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example3.testProgram.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example6.Topic03ExampleMain.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example7.InheritanceTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example8.PolymorphismTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example10.PaymentMethodDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example11.CompileErrorExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example11.RuntimeErrorExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example12.ArrayVsArrayList.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example3.LocalClassDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example4.AnonymousClassExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example5.LambdaDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example6.AnonymousClassDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example7.EnumBasicTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example8.PlanetTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example9.EnumSwitchTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example1.ArrayListExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example2.HashMapExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example2.HashSetExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.CollectSquareEvenExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.CollectToListExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.EntrySetBasicExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.FilterExampleLambda.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.FilterMapExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.FilterMapExampleLambda.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.FilterNumbersExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.FlatMapExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.ForEachVsForExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.InstanceMethodRefDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.JoiningExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.LambdaPractice.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.LambdaSyntaxDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.LazyEvaluationExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.MapEntryTransformationExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.MapEntryTransformationExampleLambda.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.MapNamesExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.MapNamesExampleLambda.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.PeekExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.StaticMethodRefDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.StreamBasicExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.ToSetExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.AveragingExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.DepartmentReportExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.GroupingByExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.MinAndMaxByExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.MultiLevelGrouping.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.PartitioningExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.ReducingExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.SummarizingExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.SummingIntExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture 빌드.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.MapEntryTransformationExampleLambda.executor&quot;: &quot;Coverage&quot;,
+    &quot;애플리케이션.StaticMethodRefDemo.executor&quot;: &quot;Coverage&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.example.head04" />
@@ -200,13 +192,13 @@
       <recent name="org.example.head03_OOP" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.JoiningExample">
-    <configuration name="CollectSquareEvenExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head05.example4.CollectSquareEvenExample" />
+  <component name="RunManager" selected="애플리케이션.DepartmentReportExample">
+    <configuration name="AveragingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head05.example5.AveragingExample" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.head05.example4.*" />
+          <option name="PATTERN" value="org.example.head05.example5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectToListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head05.example4.CollectToListExample" />
+    <configuration name="DepartmentReportExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head05.example5.DepartmentReportExample" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.head05.example4.*" />
+          <option name="PATTERN" value="org.example.head05.example5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JoiningExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head05.example4.JoiningExample" />
+    <configuration name="MinAndMaxByExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head05.example5.MinAndMaxByExample" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.head05.example4.*" />
+          <option name="PATTERN" value="org.example.head05.example5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PeekExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head05.example4.PeekExample" />
+    <configuration name="ReducingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head05.example5.ReducingExample" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.head05.example4.*" />
+          <option name="PATTERN" value="org.example.head05.example5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.head05.example4.ToSetExample" />
+    <configuration name="SummarizingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.head05.example5.SummarizingExample" />
       <module name="SpringBackendLecture9.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.head05.example4.*" />
+          <option name="PATTERN" value="org.example.head05.example5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.JoiningExample" />
-        <item itemvalue="애플리케이션.ToSetExample" />
-        <item itemvalue="애플리케이션.CollectSquareEvenExample" />
-        <item itemvalue="애플리케이션.CollectToListExample" />
-        <item itemvalue="애플리케이션.PeekExample" />
+        <item itemvalue="애플리케이션.DepartmentReportExample" />
+        <item itemvalue="애플리케이션.ReducingExample" />
+        <item itemvalue="애플리케이션.SummarizingExample" />
+        <item itemvalue="애플리케이션.AveragingExample" />
+        <item itemvalue="애플리케이션.MinAndMaxByExample" />
       </list>
     </recent_temporary>
   </component>
@@ -302,12 +294,18 @@
       <workItem from="1767709459045" duration="580000" />
       <workItem from="1767710050719" duration="638000" />
       <workItem from="1767746557020" duration="17728000" />
-      <workItem from="1767831692705" duration="23237000" />
+      <workItem from="1767831692705" duration="23431000" />
+      <workItem from="1767918291626" duration="9132000" />
+      <workItem from="1767935183000" duration="1156000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="12.07" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SpringBackendLecture$MapEntryTransformationExampleLambda.ic" NAME="MapEntryTransformationExampleLambda 커버리지 결과" MODIFIED="1767856611130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
