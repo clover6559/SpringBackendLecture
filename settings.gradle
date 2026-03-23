@@ -1,1 +1,5 @@
 rootProject.name = 'SpringBackendLecture9'
+//include 'spring'
+include 'demo'
+include 'jpa'
+include 'springhello'

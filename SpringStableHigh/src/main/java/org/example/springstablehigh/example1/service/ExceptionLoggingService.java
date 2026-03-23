@@ -1,0 +1,25 @@
+package org.example.springstablehigh.example1.service;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.stereotype.Service;
+
+@Service
+public class ExceptionLoggingService {
+  private static final Logger log = LoggerFactory.getLogger(ExceptionLoggingService.class);
+
+  public void runExceptionCase(String type) {
+    try {
+      if ("bussiness".equals(type)) {
+        throw new IllegalStateException("잔액 부족");
+      } else if ("System".equals(type)) {
+        throw new RuntimeException("DB 연결 실패");
+      }
+    } catch (IllegalArgumentException e) {
+      log.warn("비즈니스 예외 발생 - 메세지: {}", e.getMessage());
+    } catch (Exception e) {
+      log.error("시스템 오류 발생 - 즉시 대응 필요", e);
+    }
+  }
+
+}

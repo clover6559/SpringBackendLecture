@@ -5,10 +5,28 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="corretto-24" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/jpa" />
+            <option value="$PROJECT_DIR$/springhello" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringStableHigh" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringStableHigh" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringTDD" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringTDD" />
           </set>
         </option>
       </GradleProjectSettings>

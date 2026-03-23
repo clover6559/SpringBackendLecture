@@ -1,0 +1,52 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '3.5.10'
+    id 'io.spring.dependency-management' version '1.1.7'
+    id 'org.asciidoctor.jvm.convert' version '4.0.2'
+}
+configurations {
+    asciidoctorExt
+}
+group = 'org.example'
+version = '0.0.1-SNAPSHOT'
+description = 'springhello'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web' // webmvc -> web으로 수정
+    implementation 'org.springframework.boot:spring-boot-starter-hateoas'
+    implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+    developmentOnly 'org.springframework.boot:spring-boot-devtools'
+
+    // 테스트 관련 설정
+    testImplementation 'org.springframework.boot:spring-boot-starter-test' // 가장 중요!
+    testImplementation 'org.springframework.restdocs:spring-restdocs-mockmvc'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+
+    // RestDocs 문서 생성용
+    asciidoctorExt 'org.springframework.restdocs:spring-restdocs-asciidoctor'
+}
+//tasks.named('test') {
+//    useJUnitPlatform()
+//}
+ext {
+    snippetsDir = file("build/generated-snippets")
+}
+tasks.test {
+    outputs.dir snippetsDir
+    useJUnitPlatform()
+}
+tasks.asciidoctor {
+    inputs.dir snippetsDir
+    configurations 'asciidoctorExt'
+    dependsOn test
+}
