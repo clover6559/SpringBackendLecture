@@ -5,260 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef7eb48-747d-438c-ad26-45322d73a394" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStableHigh/src/main/java/org/example/springstablehigh/example1/controller/LoggingPracticeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStableHigh/src/main/java/org/example/springstablehigh/example1/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStableHigh/src/main/java/org/example/springstablehigh/example1/dto/ErrorResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStableHigh/src/main/java/org/example/springstablehigh/example1/exception/DuplicateEmailException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStableHigh/src/main/java/org/example/springstablehigh/example1/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStableHigh/src/main/java/org/example/springstablehigh/example1/service/BadLoggingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStableHigh/src/main/java/org/example/springstablehigh/example1/service/ExceptionLoggingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStableHigh/src/main/java/org/example/springstablehigh/example1/service/GoodLoggingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStableHigh/src/main/java/org/example/springstablehigh/example1/service/LoggingPracticeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStableHigh/src/main/java/org/example/springstablehigh/example1/service/SecurityLoggingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringStableHigh/src/main/java/org/example/springstablehigh/example1/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/main/java/org/example/jpa/JpaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/main/java/org/example/jpa/MenuResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/main/java/org/example/jpa/controller/MenuController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/main/java/org/example/jpa/controller/MenuTxController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/main/java/org/example/jpa/domain/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/main/java/org/example/jpa/domain/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/main/java/org/example/jpa/dto/MenuPriceUpdateRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/main/java/org/example/jpa/repository/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/main/java/org/example/jpa/repository/MenuRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/main/java/org/example/jpa/repository/exception/MenuCheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/main/java/org/example/jpa/service/AuditService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/main/java/org/example/jpa/service/MenuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/main/java/org/example/jpa/service/MenuTxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/main/resources/import.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpa/src/test/java/org/example/jpa/JpaApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/Model/RestFulApiAdvancedApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/Model/RestFulApiProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/Model/RestFulApiProductResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/doc/RestDocsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/doc/RestDocsMemberController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/doc/RestDocsMemberResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/SpringhelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/UserDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/UserRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/controller/FileSaveController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/controller/FileUploadController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/controller/HeaderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/controller/HelloController2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/controller/HttpMessageConverterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/controller/ModelAttributeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/controller/PathVariableController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/controller/RequestBodyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/controller/RequestParamController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/controller/ResponseEntityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/controller/ResponseModelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/java/org/example/springhello/dto/MemberDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/resources/custom-static/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/resources/static/helloWorld.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/main/resources/templates/memberResult.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/test/java/docs/RestDocsMemberControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springhello/src/test/java/org/example/springhello/SpringhelloApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uploads/731b5065-bb04-4ce4-be89-28b7337a18f1_icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringStableHigh/src/main/java/org/example/springstablehigh/example2/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringStableHigh/src/main/java/org/example/springstablehigh/example2/entity/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringStableHigh/src/main/java/org/example/springstablehigh/example2/repository/MemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ArrayAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ArrayAccess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ArrayLengthExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ArrayLengthExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ArrayToSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ArrayToSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ArrayToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ArrayToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/BreakContinueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/BreakContinueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/BreakExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/BreakExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ConditionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ConditionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ContinueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ContinueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DeepCopyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DeepCopyArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DeepCopyArrayCopyOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DeepCopyArrayCopyOf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DeepCopyArraySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DeepCopyArraySystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DefaultValueCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DefaultValueCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DoWhileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/DoWhileExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/EnhancedForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/EnhancedForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ForLoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ForLoopExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/IfExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/IfExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ImprovedForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ImprovedForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/LoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/LoopExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/OpentatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/OpentatorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ReferenceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ReferenceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ShallowCopyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/ShallowCopyArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/SwitchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/SwitchExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/TernaryExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/TernaryExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/TwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/TwoDArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/VariableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/VariableExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/WhileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/WhileExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/primitiveExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head02_JAVA/primitiveExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/OOPGradeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/OOPGradeManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/ProceduralGradeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/ProceduralGradeManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/ProceduralOrderManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/ProceduralOrderManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example10/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example10/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example10/PaymentServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example10/PaymentServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example10/UserAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example10/UserAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example11/AccountTransferPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example11/AccountTransferPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example11/CreditCardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example11/CreditCardPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example11/MobilePayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example11/MobilePayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example11/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example11/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example11/PaymentProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example11/PaymentProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example11/PaymentProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example11/PaymentProcessorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example12/LspTestImproved.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example12/LspTestImproved.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example12/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example12/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example12/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example12/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example12/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example12/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example13/DipTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example13/DipTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example13/EmailNotificationSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example13/EmailNotificationSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example13/NotificationSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example13/NotificationSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example13/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example13/NotificationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example13/SmsNotificationSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example13/SmsNotificationSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example3/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example3/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example3/testProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example3/testProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example4/ConstructorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example4/ConstructorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example4/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example4/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example4/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example4/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example5/EcommerceApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example5/EcommerceApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example5/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example5/Utility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/AbstractPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/AbstractPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/AccountTransferPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/AccountTransferPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/CreditCardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/CreditCardPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/CryptoPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/CryptoPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/Topic03ExampleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example6/Topic03ExampleMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example7/BusinessUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example7/BusinessUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example7/InheritanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example7/InheritanceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example7/PersonalUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example7/PersonalUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example7/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example7/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example8/AccountTransferPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example8/AccountTransferPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example8/CreditCardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example8/CreditCardPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example8/CryptoPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example8/CryptoPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example8/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example8/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example8/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example8/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example8/PolymorphismTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example8/PolymorphismTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example9/UserAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head03_OOP/example9/UserAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example1/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example1/Outer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example1/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example1/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example10/PaymentMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example10/PaymentMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example10/PaymentMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example10/PaymentMethodDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example11/CompileErrorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example11/CompileErrorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example11/RuntimeErrorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example11/RuntimeErrorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example11/mermaid.mmd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example11/mermaid.mmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example12/ArrayVsArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example12/ArrayVsArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example2/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example2/Outer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example2/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example2/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example3/LocalClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example3/LocalClassDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example4/AnonymousClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example4/AnonymousClassExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example4/EventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example4/EventListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example5/LambdaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example5/LambdaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example5/MyCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example5/MyCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example6/AbstractTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example6/AbstractTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example6/AnonymousClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example6/AnonymousClassDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example7/EnumBasicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example7/EnumBasicTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example8/PlanetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example8/PlanetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head04/example9/EnumSwitchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head04/example9/EnumSwitchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example1/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example1/ArrayListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example2/HashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example2/HashMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example2/HashSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example2/HashSetExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example3/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example3/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example3/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example3/StudentManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/CollectSquareEvenExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/CollectSquareEvenExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/CollectToListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/CollectToListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/EntrySetBasicExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/EntrySetBasicExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterExampleLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterExampleLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterMapExampleLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterMapExampleLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterNumbersExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FilterNumbersExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FlatMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/FlatMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/ForEachVsForExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/ForEachVsForExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/InstanceMethodRefDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/InstanceMethodRefDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/JoiningExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/JoiningExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/LambdaPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/LambdaPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/LambdaSyntaxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/LambdaSyntaxDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/LazyEvaluationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/LazyEvaluationExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapEntryTransformationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapEntryTransformationExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapEntryTransformationExampleLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapEntryTransformationExampleLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapNamesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapNamesExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapNamesExampleLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/MapNamesExampleLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/PeekExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/PeekExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/StaticMethodRefDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/StaticMethodRefDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/StreamBasicExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/StreamBasicExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/ToSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example4/ToSetExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/AveragingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/AveragingExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/DepartmentReportExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/DepartmentReportExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/GroupingByExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/GroupingByExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/MinAndMaxByExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/MinAndMaxByExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/PartitioningExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/PartitioningExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/ReducingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/ReducingExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/SummarizingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/SummarizingExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/SummingIntExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head05/example5/SummingIntExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/ArrayListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/BufferedReaderWriterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/BufferedReaderWriterExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/CsvToListProductExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/CsvToListProductExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/CsvToMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/CsvToMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/FileReaderWriterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/FileReaderWriterExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/GenericMethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/GenericMethodExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/LinkedListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/LinkedListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/ListToTextFileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/ListToTextFileExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/MapToCsvExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/MapToCsvExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/MapToTextFileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/MapToTextFileExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/ObjectWriteExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/ObjectWriteExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/QueueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/QueueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/ShapeContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/ShapeContainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/ShapeExtendExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/ShapeExtendExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/StackExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/StackExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/TextFIleToMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/TextFIleToMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/TextFileToListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/TextFileToListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head06/WildCardProducerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head06/WildCardProducerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head07/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head07/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head01/DIExampleUsingExtends.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head01/DIExampleUsingExtends.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head01/MenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head01/MenuController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head01/MenuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head01/MenuService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head01/MenuServiceStub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head01/MenuServiceStub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head02/DIExampleUsingInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head02/DIExampleUsingInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head02/MenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head02/MenuController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head02/MenuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head02/MenuService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head02/MenuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head02/MenuServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head02/MenuServiceStub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/head08_spring/head02/MenuServiceStub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBackendLecture/SpringTDD/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBackendLecture/SpringTDD/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringStableHigh/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringStableHigh/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -343,154 +96,154 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Gradle.Build SpringBackendLecture.executor": "Run",
-    "Gradle.Build SpringStableHigh.executor": "Run",
-    "Gradle.Build demo.executor": "Run",
-    "Gradle.Build jpa.executor": "Run",
-    "Gradle.Build springhello.executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.Main.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayAccess.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayLengthExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayToSort.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayToString.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.BreakContinueExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.BreakExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ConditionExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ContinueExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.DeepCopyArray.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.DeepCopyArrayCopyOf.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.DeepCopyArraySystem.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.DoWhileExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.EnhancedForLoop.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ForLoop.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ForLoopExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.HelloWorld.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.IfExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ImprovedForLoop.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.LoopExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ReferenceExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ShallowCopyArray.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.SwitchExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.TwoDArray.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.WhileExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head02_JAVA.primitiveExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.OOPGradeManager.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example10.PaymentServiceTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example11.PaymentProcessorTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example12.LspTestImproved.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example13.DipTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example14.main.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example15.main.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example16.LocalClassDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example3.testProgram.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example6.Topic03ExampleMain.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example7.InheritanceTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head03_OOP.example8.PolymorphismTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example10.PaymentMethodDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example11.CompileErrorExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example11.RuntimeErrorExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example12.ArrayVsArrayList.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example3.LocalClassDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example4.AnonymousClassExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example5.LambdaDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example6.AnonymousClassDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example7.EnumBasicTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example8.PlanetTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head04.example9.EnumSwitchTest.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example1.ArrayListExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example2.HashMapExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example2.HashSetExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.CollectSquareEvenExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.CollectToListExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.EntrySetBasicExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.FilterExampleLambda.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.FilterMapExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.FilterMapExampleLambda.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.FilterNumbersExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.FlatMapExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.ForEachVsForExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.InstanceMethodRefDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.JoiningExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.LambdaPractice.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.LambdaSyntaxDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.LazyEvaluationExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.MapEntryTransformationExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.MapEntryTransformationExampleLambda.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.MapNamesExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.MapNamesExampleLambda.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.PeekExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.StaticMethodRefDemo.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.StreamBasicExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example4.ToSetExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example5.AveragingExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example5.DepartmentReportExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example5.GroupingByExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example5.MinAndMaxByExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example5.MultiLevelGrouping.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example5.PartitioningExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example5.ReducingExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example5.SummarizingExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head05.example5.SummingIntExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head06.ArrayListExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head06.BufferedReaderWriterExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head06.CsvToListProductExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head06.CsvToMapExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head06.FileReaderWriterExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head06.GenericMethodExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head06.LinkedListExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head06.ListToTextFileExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head06.MapToCsvExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head06.MapToTextFileExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head06.QueueExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head06.ShapeExtendExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head06.StackExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head06.TextFIleToMapExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head06.TextFileToListExample.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head06.WildCardProducerExample.main()].executor": "Debug",
-    "Gradle.SpringBackendLecture [:org.example.head08_spring.head01.DIExampleUsingExtends.main()].executor": "Run",
-    "Gradle.SpringBackendLecture [:org.example.head08_spring.head02.DIExampleUsingInterface.main()].executor": "Run",
-    "Gradle.SpringBackendLecture 빌드.executor": "Run",
-    "Gradle.demo 빌드.executor": "Run",
-    "Gradle.jpa 빌드.executor": "Run",
-    "Gradle.springhello 빌드.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.DemoApplication (1).executor": "Run",
-    "Spring Boot.DemoApplication.executor": "Run",
-    "Spring Boot.JpaApplication.executor": "Run",
-    "Spring Boot.RestFulApiAdvancedApplication.executor": "Run",
-    "Spring Boot.SpringStableHighApplication.executor": "Run",
-    "Spring Boot.SpringhelloApplication (1).executor": "Run",
-    "Spring Boot.SpringhelloApplication.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "/Users/apple/IdeaProjects/SpringBackendLecture/springhello/src/main/java",
-    "last_opened_file_path": "/Users/apple/IdeaProjects/SpringBackendLecture",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.MapEntryTransformationExampleLambda.executor": "Coverage",
-    "애플리케이션.StaticMethodRefDemo.executor": "Coverage"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Gradle.Build SpringBackendLecture.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build SpringStableHigh.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build demo.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build jpa.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build springhello.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayAccess.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayLengthExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayToSort.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayToString.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.BreakContinueExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.BreakExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ConditionExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ContinueExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.DeepCopyArray.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.DeepCopyArrayCopyOf.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.DeepCopyArraySystem.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.DoWhileExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.EnhancedForLoop.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ForLoop.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ForLoopExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.HelloWorld.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.IfExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ImprovedForLoop.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.LoopExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ReferenceExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.ShallowCopyArray.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.SwitchExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.TwoDArray.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.WhileExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head02_JAVA.primitiveExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.OOPGradeManager.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example10.PaymentServiceTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example11.PaymentProcessorTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example12.LspTestImproved.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example13.DipTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example14.main.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example15.main.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example16.LocalClassDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example3.testProgram.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example6.Topic03ExampleMain.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example7.InheritanceTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head03_OOP.example8.PolymorphismTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example10.PaymentMethodDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example11.CompileErrorExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example11.RuntimeErrorExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example12.ArrayVsArrayList.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example3.LocalClassDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example4.AnonymousClassExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example5.LambdaDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example6.AnonymousClassDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example7.EnumBasicTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example8.PlanetTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head04.example9.EnumSwitchTest.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example1.ArrayListExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example2.HashMapExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example2.HashSetExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.CollectSquareEvenExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.CollectToListExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.EntrySetBasicExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.FilterExampleLambda.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.FilterMapExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.FilterMapExampleLambda.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.FilterNumbersExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.FlatMapExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.ForEachVsForExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.InstanceMethodRefDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.JoiningExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.LambdaPractice.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.LambdaSyntaxDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.LazyEvaluationExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.MapEntryTransformationExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.MapEntryTransformationExampleLambda.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.MapNamesExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.MapNamesExampleLambda.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.PeekExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.StaticMethodRefDemo.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.StreamBasicExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example4.ToSetExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.AveragingExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.DepartmentReportExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.GroupingByExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.MinAndMaxByExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.MultiLevelGrouping.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.PartitioningExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.ReducingExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.SummarizingExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head05.example5.SummingIntExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.ArrayListExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.BufferedReaderWriterExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.CsvToListProductExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.CsvToMapExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.FileReaderWriterExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.GenericMethodExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.LinkedListExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.ListToTextFileExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.MapToCsvExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.MapToTextFileExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.QueueExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.ShapeExtendExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.StackExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.TextFIleToMapExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.TextFileToListExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head06.WildCardProducerExample.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head08_spring.head01.DIExampleUsingExtends.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture [:org.example.head08_spring.head02.DIExampleUsingInterface.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SpringBackendLecture 빌드.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.demo 빌드.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.jpa 빌드.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.springhello 빌드.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.DemoApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.DemoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.JpaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.RestFulApiAdvancedApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringStableHighApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringhelloApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringhelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/apple/IdeaProjects/SpringBackendLecture/springhello/src/main/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/apple/IdeaProjects/SpringBackendLecture&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.annotationProcessors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.MapEntryTransformationExampleLambda.executor&quot;: &quot;Coverage&quot;,
+    &quot;애플리케이션.StaticMethodRefDemo.executor&quot;: &quot;Coverage&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/SpringStableHigh/src/main/java/org/example/springstablehigh" />
@@ -646,18 +399,18 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.DIExampleUsingInterface" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.MapToCsvExample" />
       <item itemvalue="Spring Boot.DemoApplication (1)" />
+      <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="Spring Boot.JpaApplication (1)" />
+      <item itemvalue="Spring Boot.JpaApplication" />
       <item itemvalue="Spring Boot.SpringStableHighApplication" />
       <item itemvalue="Spring Boot.SpringTddApplication" />
-      <item itemvalue="Spring Boot.DemoApplication" />
-      <item itemvalue="Spring Boot.JpaApplication" />
       <item itemvalue="Spring Boot.SpringhelloApplication" />
-      <item itemvalue="Spring Boot.SpringhelloApplication (1)" />
       <item itemvalue="Spring Boot.RestFulApiAdvancedApplication" />
+      <item itemvalue="Spring Boot.SpringhelloApplication (1)" />
     </list>
     <recent_temporary>
       <list>
@@ -728,7 +481,12 @@
       <workItem from="1773999689439" duration="46000" />
       <workItem from="1773999778728" duration="842000" />
       <workItem from="1774232184310" duration="1067000" />
-      <workItem from="1774233371771" duration="7935000" />
+      <workItem from="1774233371771" duration="8627000" />
+      <workItem from="1774266086473" duration="149000" />
+      <workItem from="1774311381083" duration="3858000" />
+      <workItem from="1774318136161" duration="3000" />
+      <workItem from="1774318410274" duration="66000" />
+      <workItem from="1774348273554" duration="111000" />
     </task>
     <servers />
   </component>
