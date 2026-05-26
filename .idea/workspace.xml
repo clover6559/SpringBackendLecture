@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef7eb48-747d-438c-ad26-45322d73a394" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/springsecuritytokenjwt/src/main/java/com/example/springsecuritytokenjwt/EncodingDecoding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springsecuritytokenjwt/src/main/java/com/example/springsecuritytokenjwt/JjwtGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springsecuritytokenjwt/src/main/java/com/example/springsecuritytokenjwt/NimbusJoseGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-thread-basic-demo/src/main/java/com/example/javathreadbasicdemo/practice01/SyncAsyncComparisonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-thread-basic-demo/src/main/java/com/example/javathreadbasicdemo/practice01/ThreadBasicDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/config/SecurityUserConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/dto/TokenRefreshResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/security/RefreshTokenStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/security/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/security/JwtAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/security/JwtLoginSuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/security/JwtLoginSuccessHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/security/JwtTokenProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/security/JwtTokenProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +41,13 @@
     <projectState path="$PROJECT_DIR$/demo">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/java-thread-basic-demo">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/jpa">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/spring-security-jwt-demo">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/springhello">
@@ -112,6 +128,7 @@
     "Gradle.Build SpringStableHigh.executor": "Run",
     "Gradle.Build demo.executor": "Run",
     "Gradle.Build jpa.executor": "Run",
+    "Gradle.Build spring-security-jwt-demo.executor": "Run",
     "Gradle.Build springhello.executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.Main.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayAccess.main()].executor": "Run",
@@ -235,6 +252,7 @@
     "Spring Boot.DemoApplication.executor": "Run",
     "Spring Boot.JpaApplication.executor": "Run",
     "Spring Boot.RestFulApiAdvancedApplication.executor": "Run",
+    "Spring Boot.SpringSecurityJwtDemoApplication.executor": "Run",
     "Spring Boot.SpringStableHighApplication.executor": "Run",
     "Spring Boot.SpringhelloApplication (1).executor": "Run",
     "Spring Boot.SpringhelloApplication.executor": "Run",
@@ -247,7 +265,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/jieun/codeit/SpringBackendLecture/SpringBackendLecture/SpringSecurityTokenJWT/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/jieun/codeit/SpringBackendLecture/SpringBackendLecture/java-thread-basic-demo/src/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -281,6 +299,37 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
+    <option name="hiddenConfigurations">
+      <map>
+        <entry key="SpringBootApplicationConfigurationType">
+          <value>
+            <set>
+              <option value="JavaThreadBasicDemoApplication" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="shownConfigurations">
+      <map>
+        <entry key="SpringBootApplicationConfigurationType">
+          <value>
+            <set>
+              <option value="DemoApplication" />
+              <option value="DemoApplication (1)" />
+              <option value="JpaApplication" />
+              <option value="JpaApplication (1)" />
+              <option value="SpringSecurityJwtDemoApplication" />
+              <option value="SpringStableHighApplication" />
+              <option value="SpringTddApplication" />
+              <option value="SpringhelloApplication" />
+              <option value="SpringhelloApplication (1)" />
+              <option value="SpringsecuritytokenjwtApplication" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="configurationStatuses">
       <map>
         <entry key="SpringBootApplicationConfigurationType">
@@ -288,6 +337,7 @@
             <map>
               <entry key="DemoApplication (1)" value="STOPPED" />
               <entry key="JpaApplication" value="STOPPED" />
+              <entry key="SpringSecurityJwtDemoApplication" value="FAILED" />
               <entry key="SpringStableHighApplication" value="STOPPED" />
               <entry key="SpringhelloApplication" value="STOPPED" />
               <entry key="SpringhelloApplication (1)" value="STOPPED" />
@@ -296,8 +346,13 @@
         </entry>
       </map>
     </option>
+    <option name="excludedNewTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
   </component>
-  <component name="RunManager" selected="Application.JjwtGenerator">
+  <component name="RunManager" selected="Application.ThreadBasicDemoApplication">
     <configuration name="EncodingDecoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.springsecuritytokenjwt.EncodingDecoding" />
       <module name="springsecuritytokenjwt.main" />
@@ -324,19 +379,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="SpringBackendLecture9.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NimbusJoseGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.springsecuritytokenjwt.NimbusJoseGenerator" />
       <module name="springsecuritytokenjwt.main" />
@@ -350,6 +392,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadBasicDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javathreadbasicdemo.practice01.ThreadBasicDemoApplication" />
+      <module name="java-thread-basic-demo.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.javathreadbasicdemo.practice01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SpringStableHigh.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SpringStableHigh.main" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
     <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="SpringBackendLecture9.demo.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
@@ -360,6 +426,13 @@
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="demo.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaThreadBasicDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="java-thread-basic-demo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.javathreadbasicdemo.JavaThreadBasicDemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -376,6 +449,13 @@
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="jpa.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.jpa.JpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityJwtDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-security-jwt-demo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springsecurityjwtdemo.SpringSecurityJwtDemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -424,10 +504,12 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ThreadBasicDemoApplication" />
       <item itemvalue="Application.EncodingDecoding" />
       <item itemvalue="Application.JjwtGenerator" />
       <item itemvalue="Application.NimbusJoseGenerator" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Spring Boot.JavaThreadBasicDemoApplication" />
+      <item itemvalue="Spring Boot.SpringSecurityJwtDemoApplication" />
       <item itemvalue="Spring Boot.SpringsecuritytokenjwtApplication" />
       <item itemvalue="Spring Boot.DemoApplication (1)" />
       <item itemvalue="Spring Boot.DemoApplication" />
@@ -440,11 +522,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadBasicDemoApplication" />
         <item itemvalue="Application.NimbusJoseGenerator" />
         <item itemvalue="Application.JjwtGenerator" />
         <item itemvalue="Application.EncodingDecoding" />
         <item itemvalue="Spring Boot.SpringhelloApplication (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -515,7 +597,8 @@
       <workItem from="1774318136161" duration="3000" />
       <workItem from="1774318410274" duration="66000" />
       <workItem from="1774348273554" duration="111000" />
-      <workItem from="1779259140050" duration="2431000" />
+      <workItem from="1779259140050" duration="9140000" />
+      <workItem from="1779759508794" duration="1266000" />
     </task>
     <servers />
   </component>
@@ -536,6 +619,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="12.07" />
     <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-thread-basic-demo/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

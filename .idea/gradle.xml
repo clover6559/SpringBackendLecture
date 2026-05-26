@@ -31,6 +31,22 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-thread-basic-demo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-thread-basic-demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-security-jwt-demo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-security-jwt-demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/springsecuritytokenjwt" />
         <option name="modules">
           <set>

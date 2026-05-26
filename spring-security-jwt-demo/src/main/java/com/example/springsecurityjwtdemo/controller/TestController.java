@@ -1,18 +1,23 @@
 package com.example.springsecurityjwtdemo.controller;
 
+import org.springframework.security.access.prepost.PreAuthorize;
+import org.springframework.security.core.Authentication;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import java.util.Map;
 
 @RestController
 public class TestController {
 
-    @GetMapping("/api/hello")
-    public String hello() {
-        return "hello";
+    @GetMapping("/api/user")
+    public Map<String, Object> user(Authentication authentication) {
+        return Map.of("message", "USER API SUCCESS", "username", authentication.getName());
     }
 
-    @GetMapping("/api/auth/login")
-    public String login() {
-        return "login page";
+    @PreAuthorize("hasRole('ADMIN')")
+    @GetMapping("/api/admin")
+    public Map<String, Object> admin(Authentication authentication) {
+        return Map.of("message", "ADMIN API SUCCESS", "username", authentication.getName());
     }
 }

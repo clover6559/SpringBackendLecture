@@ -2,6 +2,7 @@ package com.example.springsecurityjwtdemo.config;
 
 import com.example.springsecurityjwtdemo.security.JwtAuthenticationFilter;
 import com.example.springsecurityjwtdemo.security.JwtLoginSuccessHandler;
+import jakarta.servlet.http.HttpServletResponse;
 import lombok.RequiredArgsConstructor;
 
 import org.springframework.context.annotation.Bean;
@@ -47,7 +48,7 @@ public class SecurityConfig {
                 .authorizeHttpRequests(auth -> auth
 
                         .requestMatchers(
-                                "/api/auth/login"
+                                "/api/auth/login", "/api/auth/refresh", "/api/auth/logout"
                         ).permitAll()
 
                         .anyRequest()
@@ -63,6 +64,27 @@ public class SecurityConfig {
                         .successHandler(
                                 jwtLoginSuccessHandler
                         )
+                )
+                .exceptionHandling(exception -> exception.authenticationEntryPoint((request, response, authException) -> {
+                    response.setStatus(HttpServletResponse.SC_UNAUTHORIZED);
+                    response.setContentType("application/json;charset=UTF-8");
+                    response.getWriter().write("""
+                    {
+                      "error": "UNAUTHORIZED",
+                      "message": "인증이 필요합니다."
+                    }
+                    """);
+                })
+                                .accessDeniedHandler((request, response, accessDeniedException) -> {
+                                    response.setStatus(HttpServletResponse.SC_FORBIDDEN);
+                                    response.setContentType("application/json;charset=UTF-8");
+                                    response.getWriter().write("""
+                    {
+                      "error": "FORBIDDEN",
+                      "message": "접근 권한이 없습니다."
+                    }
+                    """);
+                                })
                 )
 
                 .addFilterBefore(
