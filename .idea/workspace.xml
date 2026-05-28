@@ -5,20 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef7eb48-747d-438c-ad26-45322d73a394" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/java-thread-basic-demo/src/main/java/com/example/javathreadbasicdemo/practice01/SyncAsyncComparisonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-thread-basic-demo/src/main/java/com/example/javathreadbasicdemo/practice01/ThreadBasicDemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/config/SecurityUserConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/controller/AuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/dto/TokenRefreshResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/security/RefreshTokenStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAsyncDemo/src/main/java/com/codeit/springasyncdemo/config/AsyncConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAsyncDemo/src/main/java/com/codeit/springasyncdemo/controller/AsyncMonitorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAsyncDemo/src/main/java/com/codeit/springasyncdemo/controller/EmailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAsyncDemo/src/main/java/com/codeit/springasyncdemo/controller/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAsyncDemo/src/main/java/com/codeit/springasyncdemo/service/EmailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAsyncDemo/src/main/java/com/codeit/springasyncdemo/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAsyncExceptionDemo/src/main/java/com/codeit/springasyncexceptiondemo/config/AsyncConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAsyncExceptionDemo/src/main/java/com/codeit/springasyncexceptiondemo/config/MdcTaskDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAsyncExceptionDemo/src/main/java/com/codeit/springasyncexceptiondemo/controller/AsyncController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAsyncExceptionDemo/src/main/java/com/codeit/springasyncexceptiondemo/handler/CustomAsyncExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAsyncExceptionDemo/src/main/java/com/codeit/springasyncexceptiondemo/service/AsyncService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCacheDemo/src/main/java/com/codeit/springcachedemo/config/CustomKeyGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCacheDemo/src/main/java/com/codeit/springcachedemo/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCacheDemo/src/main/java/com/codeit/springcachedemo/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEventDemo/src/main/java/com/codeit/springeventdemo/config/AsyncConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEventDemo/src/main/java/com/codeit/springeventdemo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEventDemo/src/main/java/com/codeit/springeventdemo/event/UserRegisteredEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEventDemo/src/main/java/com/codeit/springeventdemo/listener/ActivityLogEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEventDemo/src/main/java/com/codeit/springeventdemo/listener/CacheEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEventDemo/src/main/java/com/codeit/springeventdemo/listener/EmailEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEventDemo/src/main/java/com/codeit/springeventdemo/listener/StatisticsEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEventDemo/src/main/java/com/codeit/springeventdemo/listener/UserEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEventDemo/src/main/java/com/codeit/springeventdemo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-executor-future-demo/src/main/java/practice01/ExecutorFutureDemoApplication1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-executor-future-demo/src/main/java/practice01/ThreadVsExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-executor-future-demo/src/main/java/practice02/ExecutorFutureDemoApplication2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-executor-future-demo/src/main/java/practice02/ThreadPoolTypesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-executor-future-demo/src/main/java/practice03/ExecutorFutureDemoApplication3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-executor-future-demo/src/main/java/practice03/ScheduledExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-executor-future-demo/src/main/java/practice06/ExecutorFutureDemoApplication6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-executor-future-demo/src/main/java/practice06/ProducerConsumerShutdownDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-thread-basic-demo/src/main/java/com/example/javathreadbasicdemo/practice02/ThreadBasicDemoApplication2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-thread-basic-demo/src/main/java/com/example/javathreadbasicdemo/practice02/ThreadCreationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-thread-basic-demo/src/main/java/com/example/javathreadbasicdemo/practice03/ThreadBasicDemoApplication3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-thread-basic-demo/src/main/java/com/example/javathreadbasicdemo/practice03/ThreadLifecycleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-thread-basic-demo/src/main/java/com/example/javathreadbasicdemo/practice04/RaceConditionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-thread-basic-demo/src/main/java/com/example/javathreadbasicdemo/practice04/ThreadBasicDemoApplication4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-thread-basic-demo/src/main/java/com/example/javathreadbasicdemo/practice05/SynchronizedComparisonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-thread-basic-demo/src/main/java/com/example/javathreadbasicdemo/practice05/ThreadBasicDemoApplication5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-thread-basic-demo/src/main/java/com/example/javathreadbasicdemo/practice06/ConcurrentCollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-thread-basic-demo/src/main/java/com/example/javathreadbasicdemo/practice06/ThreadBasicDemoApplication6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javacompletablefuturedemo/src/main/java/com/codeit/javacompletablefuturedemo/practice01/CompletableFutureBasicDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javacompletablefuturedemo/src/main/java/com/codeit/javacompletablefuturedemo/practice01/CompletableFutureDemoApplication1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javacompletablefuturedemo/src/main/java/com/codeit/javacompletablefuturedemo/practice02/CompletableFutureCombinationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javacompletablefuturedemo/src/main/java/com/codeit/javacompletablefuturedemo/practice02/CompletableFutureDemoApplication2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javacompletablefuturedemo/src/main/java/com/codeit/javacompletablefuturedemo/practice03/CompletableFutureDemoApplication3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javacompletablefuturedemo/src/main/java/com/codeit/javacompletablefuturedemo/practice03/CompletableFutureExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javacompletablefuturedemo/src/main/java/com/codeit/javacompletablefuturedemo/practice04/CompletableFutureDemoApplication4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javacompletablefuturedemo/src/main/java/com/codeit/javacompletablefuturedemo/practice04/CompletableFutureWorkflowDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/security/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/security/JwtAuthenticationFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/security/JwtLoginSuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/security/JwtLoginSuccessHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/security/JwtTokenProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/java/com/example/springsecurityjwtdemo/security/JwtTokenProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-security-jwt-demo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +65,18 @@
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/SpringAsyncDemo">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/SpringAsyncExceptionDemo">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/SpringCacheDemo">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/SpringEventDemo">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/SpringStableHigh">
@@ -104,9 +154,6 @@
   }
 }</component>
   <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="$USER_HOME$/.gradle/wrapper/dists/gradle-8.14-bin/38aieal9i53h9rfe7vjup95b9/gradle-8.14" javaHome="$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-24.0.2/Contents/Home" gradleVersion="8.14" />
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/corretto-24.0.2/Contents/Home/lib/src.zip!/java.base/java/lang/Enum.java" root0="SKIP_INSPECTION" />
-  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -124,12 +171,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "Gradle.Build SpringAsyncDemo.executor": "Run",
+    "Gradle.Build SpringAsyncExceptionDemo.executor": "Run",
     "Gradle.Build SpringBackendLecture.executor": "Run",
+    "Gradle.Build SpringCacheDemo.executor": "Run",
+    "Gradle.Build SpringEventDemo.executor": "Run",
     "Gradle.Build SpringStableHigh.executor": "Run",
     "Gradle.Build demo.executor": "Run",
+    "Gradle.Build java-thread-basic-demo.executor": "Run",
     "Gradle.Build jpa.executor": "Run",
     "Gradle.Build spring-security-jwt-demo.executor": "Run",
     "Gradle.Build springhello.executor": "Run",
+    "Gradle.SpringBackendLecture [:java-executor-future-demo:practice01.ExecutorFutureDemoApplication1.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:java-executor-future-demo:practice02.ExecutorFutureDemoApplication2.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:java-executor-future-demo:practice03.ExecutorFutureDemoApplication3.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:java-executor-future-demo:practice06.ExecutorFutureDemoApplication6.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:javacompletablefuturedemo:com.codeit.javacompletablefuturedemo.practice01.CompletableFutureDemoApplication1.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:javacompletablefuturedemo:com.codeit.javacompletablefuturedemo.practice03.CompletableFutureDemoApplication3.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:javacompletablefuturedemo:com.codeit.javacompletablefuturedemo.practice04.CompletableFutureDemoApplication4.main()].executor": "Run",
+    "Gradle.SpringBackendLecture [:javacompletablefuturedemo:practice02.CompletableFutureDemoApplication2.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.Main.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayAccess.main()].executor": "Run",
     "Gradle.SpringBackendLecture [:org.example.head02_JAVA.ArrayLengthExample.main()].executor": "Run",
@@ -233,6 +293,12 @@
     "Gradle.SpringBackendLecture [:org.example.head08_spring.head02.DIExampleUsingInterface.main()].executor": "Run",
     "Gradle.SpringBackendLecture 빌드.executor": "Run",
     "Gradle.demo 빌드.executor": "Run",
+    "Gradle.java-thread-basic-demo [:com.example.javathreadbasicdemo.practice01.ThreadBasicDemoApplication.main()].executor": "Run",
+    "Gradle.java-thread-basic-demo [:com.example.javathreadbasicdemo.practice02.ThreadBasicDemoApplication2.main()].executor": "Run",
+    "Gradle.java-thread-basic-demo [:com.example.javathreadbasicdemo.practice03.ThreadBasicDemoApplication3.main()].executor": "Run",
+    "Gradle.java-thread-basic-demo [:com.example.javathreadbasicdemo.practice04.ThreadBasicDemoApplication4.main()].executor": "Run",
+    "Gradle.java-thread-basic-demo [:com.example.javathreadbasicdemo.practice05.ThreadBasicDemoApplication5.main()].executor": "Run",
+    "Gradle.java-thread-basic-demo [:com.example.javathreadbasicdemo.practice06.ThreadBasicDemoApplication6.main()].executor": "Run",
     "Gradle.jpa 빌드.executor": "Run",
     "Gradle.springhello 빌드.executor": "Run",
     "Gradle.springsecuritytokenjwt [:com.example.springsecuritytokenjwt.EncodingDecoding.main()].executor": "Run",
@@ -250,8 +316,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.DemoApplication (1).executor": "Run",
     "Spring Boot.DemoApplication.executor": "Run",
+    "Spring Boot.JavaThreadBasicDemoApplication.executor": "Run",
     "Spring Boot.JpaApplication.executor": "Run",
     "Spring Boot.RestFulApiAdvancedApplication.executor": "Run",
+    "Spring Boot.SpringAsyncDemoApplication.executor": "Run",
+    "Spring Boot.SpringAsyncExceptionDemoApplication.executor": "Run",
+    "Spring Boot.SpringCacheDemoApplication.executor": "Run",
+    "Spring Boot.SpringEventDemoApplication.executor": "Run",
     "Spring Boot.SpringSecurityJwtDemoApplication.executor": "Run",
     "Spring Boot.SpringStableHighApplication.executor": "Run",
     "Spring Boot.SpringhelloApplication (1).executor": "Run",
@@ -265,7 +336,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/jieun/codeit/SpringBackendLecture/SpringBackendLecture/java-thread-basic-demo/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/jieun/codeit/SpringBackendLecture/SpringBackendLecture/javacompletablefuturedemo/src/main/java/com/codeit/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -305,6 +376,10 @@
           <value>
             <set>
               <option value="JavaThreadBasicDemoApplication" />
+              <option value="SpringAsyncDemoApplication" />
+              <option value="SpringAsyncExceptionDemoApplication" />
+              <option value="SpringCacheDemoApplication" />
+              <option value="SpringEventDemoApplication" />
             </set>
           </value>
         </entry>
@@ -323,7 +398,6 @@
               <option value="SpringStableHighApplication" />
               <option value="SpringTddApplication" />
               <option value="SpringhelloApplication" />
-              <option value="SpringhelloApplication (1)" />
               <option value="SpringsecuritytokenjwtApplication" />
             </set>
           </value>
@@ -340,7 +414,6 @@
               <entry key="SpringSecurityJwtDemoApplication" value="FAILED" />
               <entry key="SpringStableHighApplication" value="STOPPED" />
               <entry key="SpringhelloApplication" value="STOPPED" />
-              <entry key="SpringhelloApplication (1)" value="STOPPED" />
             </map>
           </value>
         </entry>
@@ -352,13 +425,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadBasicDemoApplication">
-    <configuration name="EncodingDecoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.springsecuritytokenjwt.EncodingDecoding" />
-      <module name="springsecuritytokenjwt.main" />
+  <component name="RunManager" selected="Spring Boot.SpringCacheDemoApplication">
+    <configuration name="CompletableFutureDemoApplication1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeit.javacompletablefuturedemo.practice01.CompletableFutureDemoApplication1" />
+      <module name="SpringBackendLecture9.javacompletablefuturedemo.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.springsecuritytokenjwt.*" />
+          <option name="PATTERN" value="com.codeit.javacompletablefuturedemo.practice01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -366,12 +439,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JjwtGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.springsecuritytokenjwt.JjwtGenerator" />
-      <module name="springsecuritytokenjwt.main" />
+    <configuration name="CompletableFutureDemoApplication2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice02.CompletableFutureDemoApplication2" />
+      <module name="SpringBackendLecture9.javacompletablefuturedemo.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.springsecuritytokenjwt.*" />
+          <option name="PATTERN" value="practice02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,12 +452,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NimbusJoseGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.springsecuritytokenjwt.NimbusJoseGenerator" />
-      <module name="springsecuritytokenjwt.main" />
+    <configuration name="CompletableFutureDemoApplication3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeit.javacompletablefuturedemo.practice03.CompletableFutureDemoApplication3" />
+      <module name="SpringBackendLecture9.javacompletablefuturedemo.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.springsecuritytokenjwt.*" />
+          <option name="PATTERN" value="com.codeit.javacompletablefuturedemo.practice03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,12 +465,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadBasicDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.javathreadbasicdemo.practice01.ThreadBasicDemoApplication" />
-      <module name="java-thread-basic-demo.main" />
+    <configuration name="CompletableFutureDemoApplication4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeit.javacompletablefuturedemo.practice04.CompletableFutureDemoApplication4" />
+      <module name="SpringBackendLecture9.javacompletablefuturedemo.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.javathreadbasicdemo.practice01.*" />
+          <option name="PATTERN" value="com.codeit.javacompletablefuturedemo.practice04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,16 +478,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="SpringStableHigh.main" />
+    <configuration name="ExecutorFutureDemoApplication6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice06.ExecutorFutureDemoApplication6" />
+      <module name="SpringBackendLecture9.java-executor-future-demo.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="SpringStableHigh.main" />
-      <option name="filePath" />
-      <method v="2" />
     </configuration>
     <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="SpringBackendLecture9.demo.main" />
@@ -453,6 +528,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringAsyncDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SpringAsyncDemo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codeit.springasyncdemo.SpringAsyncDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringAsyncExceptionDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SpringAsyncExceptionDemo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codeit.springasyncexceptiondemo.SpringAsyncExceptionDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCacheDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SpringCacheDemo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codeit.springcachedemo.SpringCacheDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringEventDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SpringEventDemo.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codeit.springeventdemo.SpringEventDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringSecurityJwtDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="spring-security-jwt-demo.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springsecurityjwtdemo.SpringSecurityJwtDemoApplication" />
@@ -474,20 +577,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringhelloApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="SpringBackendLecture9.springhello.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.springhello.SpringhelloApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.springhello.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SpringhelloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="springhello.main" />
@@ -504,29 +593,33 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ThreadBasicDemoApplication" />
-      <item itemvalue="Application.EncodingDecoding" />
-      <item itemvalue="Application.JjwtGenerator" />
-      <item itemvalue="Application.NimbusJoseGenerator" />
-      <item itemvalue="Spring Boot.JavaThreadBasicDemoApplication" />
-      <item itemvalue="Spring Boot.SpringSecurityJwtDemoApplication" />
-      <item itemvalue="Spring Boot.SpringsecuritytokenjwtApplication" />
+      <item itemvalue="Application.CompletableFutureDemoApplication1" />
+      <item itemvalue="Application.CompletableFutureDemoApplication2" />
+      <item itemvalue="Application.CompletableFutureDemoApplication3" />
+      <item itemvalue="Application.CompletableFutureDemoApplication4" />
+      <item itemvalue="Application.ExecutorFutureDemoApplication6" />
+      <item itemvalue="Spring Boot.SpringCacheDemoApplication" />
       <item itemvalue="Spring Boot.DemoApplication (1)" />
       <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.JavaThreadBasicDemoApplication" />
       <item itemvalue="Spring Boot.JpaApplication (1)" />
       <item itemvalue="Spring Boot.JpaApplication" />
+      <item itemvalue="Spring Boot.SpringAsyncDemoApplication" />
+      <item itemvalue="Spring Boot.SpringAsyncExceptionDemoApplication" />
+      <item itemvalue="Spring Boot.SpringEventDemoApplication" />
+      <item itemvalue="Spring Boot.SpringSecurityJwtDemoApplication" />
       <item itemvalue="Spring Boot.SpringStableHighApplication" />
       <item itemvalue="Spring Boot.SpringTddApplication" />
       <item itemvalue="Spring Boot.SpringhelloApplication" />
-      <item itemvalue="Spring Boot.SpringhelloApplication (1)" />
+      <item itemvalue="Spring Boot.SpringsecuritytokenjwtApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadBasicDemoApplication" />
-        <item itemvalue="Application.NimbusJoseGenerator" />
-        <item itemvalue="Application.JjwtGenerator" />
-        <item itemvalue="Application.EncodingDecoding" />
-        <item itemvalue="Spring Boot.SpringhelloApplication (1)" />
+        <item itemvalue="Application.CompletableFutureDemoApplication4" />
+        <item itemvalue="Application.CompletableFutureDemoApplication3" />
+        <item itemvalue="Application.CompletableFutureDemoApplication2" />
+        <item itemvalue="Application.CompletableFutureDemoApplication1" />
+        <item itemvalue="Application.ExecutorFutureDemoApplication6" />
       </list>
     </recent_temporary>
   </component>
@@ -598,7 +691,13 @@
       <workItem from="1774318410274" duration="66000" />
       <workItem from="1774348273554" duration="111000" />
       <workItem from="1779259140050" duration="9140000" />
-      <workItem from="1779759508794" duration="1266000" />
+      <workItem from="1779759508794" duration="20501000" />
+      <workItem from="1779841427497" duration="16041000" />
+      <workItem from="1779870651284" duration="104000" />
+      <workItem from="1779870837217" duration="1000" />
+      <workItem from="1779870901448" duration="4281000" />
+      <workItem from="1779888899362" duration="83000" />
+      <workItem from="1779929150704" duration="10601000" />
     </task>
     <servers />
   </component>
@@ -627,6 +726,11 @@
           <url>file://$PROJECT_DIR$/java-thread-basic-demo/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/javacompletablefuturedemo/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
